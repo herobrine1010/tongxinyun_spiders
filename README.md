@@ -12,4 +12,4 @@ Actually about half a month ago my friends and I noticed the site was opened up 
 
 By the way, high tribute shall be paid to the "system manager", who is also an enthusiastic coder (accroding to our humble inference). This person devoted considerable resources to this site even when it was suspended, and we believe his commitment has gone beyond duty. We hope that the <a href="txy.zhouii.cn">Cenotaph of Tongxinyun</a> is no longer necessary and the site will be well maintained no matter what mishap takes place.
 
-To end with, this project has been archived to the **Arctic Code Vault Contributor** Project in 2020 February. The curiousness of several sophomores will hopefully be revealed after generations. We long to see your guys at the other end of the world.
+To end with, this project has been archived to the **Arctic Code Vault Contributor** Project in 2020 February. The curiousness of several sophomores will hopefully be revealed after generations. See you guys at the other end of the world.
